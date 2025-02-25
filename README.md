@@ -1,4 +1,4 @@
-### Blog Slider Project
+### Blog Slider Project (Full Stack)
 
 This project is a dynamic blog slider application developed in Rust, utilizing the Actix Web framework for the backend and Yew for the frontend. The backend employs Actix Web (version 4.9.0) to efficiently handle HTTP requests, while Actix CORS (version 0.7.0) is implemented to manage cross-origin requests, ensuring smooth integration with the frontend. Data serialization and deserialization are managed by Serde (version 1.0.218).
 
